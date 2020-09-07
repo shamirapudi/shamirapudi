@@ -5,9 +5,6 @@
 
 🌱 I’m currently mastering software development methodologies & Network programming .
 
-## 😄 Soulmate:
-     PHP
-
 ## Technologies I work with :information_desk_person:
 
 ### Languages
