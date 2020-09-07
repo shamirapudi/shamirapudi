@@ -20,7 +20,7 @@
      <img src="https://raw.githubusercontent.com/shamirapudi/shamirapudi/master/assets/html-css-js.png" height="100">
    </a></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.php.net">
-     <img src="https://raw.githubusercontent.com/shamirapudi/shamirapudi/master/assets/PHP-logo.png" height="100">
+     <img src="https://raw.githubusercontent.com/shamirapudi/shamirapudi/master/assets/PHP-Logo.png" height="100">
    </a></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 
@@ -54,7 +54,7 @@
     <img src="https://raw.githubusercontent.com/shamirapudi/shamirapudi/master/assets/twitter.webp" height="50"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://medium.com/@dumbedcode" target="_blank" >
-    <img src="https://raw.githubusercontent.com/shamirapudi/shamirapudi/assets/medium.png" height="50"/>
+    <img src="https://raw.githubusercontent.com/shamirapudi/shamirapudi/master/assets/medium.png" height="50"/>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://shamirapudi.github.io" target="_blank" >
     <img src="https://raw.githubusercontent.com/shamirapudi/shamirapudi/master/assets/profile.png" height="50"/>
