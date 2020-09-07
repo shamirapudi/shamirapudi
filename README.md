@@ -3,7 +3,7 @@
 
 🔭 :octocat: My name is [Shami](http://shamirapudi.github.io/), A self-taught programmer.I've dedicated my life to coding and learning. 🚀
 
-🌱 I’m currently mastering software development methodologies & Network programming .
+🌱 I’m currently mastering software development methodologies & Network programming
 
 ## Technologies I work with :information_desk_person:
 
