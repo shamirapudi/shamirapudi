@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-🔭 :octocat: I am [Shami](http://shamirapudi.github.io/), a self-taught programmer,I've dedicated my life to coding and learning. 🚀
+🔭 :octocat: My name is [Shami](http://shamirapudi.github.io/), A self-taught programmer.I've dedicated my life to coding and learning. 🚀
 
 🌱 I’m currently mastering software development methodologies & Network programming .
 
